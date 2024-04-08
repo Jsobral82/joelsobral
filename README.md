@@ -12,6 +12,7 @@ Analista de Dados com foco em processos ETL e criação de dashboards para diver
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
 
+##
 #### Minhas redes sociais:
 <a href="https://www.linkedin.com/in/joel-sobral-21062321/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
